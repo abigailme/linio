@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-may-2017, 14:58:49
+    Author     : abigail.melo
+*/
+
+.typed-cursor {
+	font-size: 22px;
+	display: inline-block;
+	margin: 0 10px;
+	color: #fff;
+    font-weight: bold;
+    width: 740px;
+    position: absolute;
+    letter-spacing: 0.2em;
+    font-family: "Linio", cursive;
+    padding-left: 24px;
+}
+
+.p{
+    color: #fff;
+    font-weight: bold;
+    font-family: "Linio", cursive;
+    font-size: 26px;  
+    padding-left: 102px;
+}
+
+.intro{
+    background-image: url('linio.jpg');
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#login{
+    background:url('Fondo_gris.jpg') no-repeat;
+    z-index:100;
+    left: 24%;
+    height: 424px;
+    padding-top: 15px;
+    top: 63px;
+}
+
